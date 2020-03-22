@@ -13,7 +13,7 @@
     },
     "dependencies": {
         "ajv": "^6.5.2",
-        "lodash": "^3.0.1",
+        "lodash": "^4.17.15",
         "solc": "^0.4.24",
         "web3": "1.0.0-beta.33",
         "webpack": "^4.20.2",
